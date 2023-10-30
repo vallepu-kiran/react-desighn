@@ -1,0 +1,108 @@
+.Right{
+    height: 670px;
+}
+.artist_text{
+  padding-left: 5px;
+  font-weight: bolder; 
+  opacity: 0.8;  
+
+    
+}
+.photographer{
+    color: #8D8D8D;
+    font-weight: bolder; 
+    opacity: 0.8;
+    padding-left: 2px;
+    
+}
+
+.photographs{
+
+    width: 244px;
+    height: 126px;
+    margin-left:  20px;
+    border-radius: 10px;
+    background-size: cover;
+    margin-top: 4px;
+    overflow: hidden;
+    
+
+}
+.first_image{
+        background-image: url('https://img.etimg.com/thumb/msid-104233524,width-480,height-360,imgsize-43518,resizemode-75/dhonis-head-turning-hairstyle.jpg');
+    
+}
+.profile{
+    width: 48px;
+    height: 48px;
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    opacity: 1;
+    margin-top: 50px;
+    margin-left: 10px;
+    
+    
+}
+.name {
+/* UI Properties */
+text-align: left;
+font: normal normal 600 16px/19px Gilroy;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+padding-left: 22px;
+padding-top: 55px; 
+margin: 0;
+}
+.mail{
+    width: 93px;
+   height: 7px;
+
+text-align: left;
+font: normal normal medium 12px/14px Gilroy;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+padding-left: 20px;
+padding-bottom: 20px;
+}
+.second_image{
+    background-image: url("https://static01.nyt.com/images/2022/12/30/multimedia/30soccer-ronaldo-1-76fd/30soccer-ronaldo-1-76fd-videoSixteenByNineJumbo1600.jpg");
+    
+}
+.third_image{
+    background-image: url("https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltc26f9c24cce8b3cd/6360ffe5016efc5347f921b3/GettyImages-1243553711.jpg?auto=webp&format=pjpg&width=3840&quality=60");
+}
+.fourth_image{
+    background-image: url("https://revsportz.in/wp-content/uploads/2023/04/virat-kohli-india-cricket-t20-world-cup_5940705.jpg");
+}
+.image_container{
+    width: 260px; 
+  height: 50px; 
+  overflow: hidden
+}
+.fifth_image{
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg");
+    width: 100%; 
+    height: auto
+}
+.text{
+    text-align:  center;
+font: normal normal 600 10px/12px Gilroy;
+letter-spacing: 0px;
+color: #8D8D8D;
+opacity: 1;
+padding-left: 30px;
+}
+.status-dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color:  #0EC297 ;
+    position: absolute;
+    margin-top: 47px;
+    margin-left: 46px;
+    border: 2px solid #FFFFFF;
+    opacity: 1;
+    
+}

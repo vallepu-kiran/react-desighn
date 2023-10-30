@@ -1,0 +1,74 @@
+.logo{
+    background-color: white;
+    text-align: center;
+    height: 70px;
+    margin: 3px;
+    border-radius: 10px;
+
+}
+.logo_text{
+  /* Layout Properties */
+width: 89px;
+height: 40px;
+padding-top: 10px;
+padding-left: 20px;
+/* UI Properties */
+text-align: left;
+font-family: Mongolian Baiti;
+font-size: 32px;
+letter-spacing: 0px;
+color: #101010;
+opacity: 1;
+}
+.search_box{
+width: 460px;
+height: 70px;
+border-radius: 10px;
+/* UI Properties */
+/* background: #FFFFFF 0% 0% no-repeat padding-box; */
+background-color: white;
+border-radius: 10px;
+opacity: 1;
+margin: 3px;
+   
+}
+.search_icon{
+    /* margin-top: 22px; */
+    margin-left: 8px;
+    width: 20px;
+    height: 20px;
+/* UI Properties */
+    /* background: transparent url('img/Component 32.png') 0% 0% no-repeat padding-box; */
+    opacity: 1;
+}
+.search_bar{
+    margin-top: 20px;
+    margin-left: 8px;
+    border: none;
+    
+}
+.filter{
+    text-align: right;
+    margin-left: 8px;
+    margin-left: 160px;
+}
+.seller_box{
+    background-color: white;
+    text-align: center;
+    height: 70px;
+    margin: 3px;
+    position: absolute;
+    border-radius: 10px;
+    /* width: 260px;
+    margin: 3px;
+    /* height: 70px;* */
+    
+    text-align: center;
+    background-color: #88c2bb;
+}
+.seller_text{
+    width: 222px;
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+}

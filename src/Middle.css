@@ -1,0 +1,177 @@
+.middle{
+    height: 590px;
+    width: 460px;
+    margin-top: 13px;
+    margin-left: 3px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+   
+}
+/* .scroll-container {
+    overflow-y: scroll;
+    height: 670px;
+
+} */
+.profile1{
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 45px;
+    opacity: 1
+}
+.mail2{
+    width: 1px;
+height: 16px;
+/* UI Properties */
+text-align: left;
+font: normal normal medium 14px/16px Gilroy;
+letter-spacing: 0px;
+color: #8D8D8D;
+opacity: 1;
+padding-top: 45px;
+padding-left: 8px;
+}
+.name2{
+    width: 100px;
+height: 24px;
+/* UI Properties */
+text-align: left;
+font: normal normal 600 20px/24px Gilroy;
+letter-spacing: 0px;
+color: #101010;
+opacity: 1;
+margin-left: 5px;
+margin-top: 23px;
+}
+.vertical-ellipsis {
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    font-size: 1.9em; /* Adjust the font size as needed */
+    line-height: 1.3em; /* Adjust the line height as needed */
+    height: 3em; /* Adjust the height as needed */
+    padding-left: 220px;
+    
+}
+.about{
+    height: 30px;
+    width: 440px;
+    padding-left: 30px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0px;
+    opacity: 1;
+    
+}
+.more{
+    text-decoration: none;
+    color:#FF5E8A;
+}
+.third {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+.picture1{
+    width: 430px;
+    height: 292px;
+    border-radius: 10px;
+    opacity: 1;
+    margin-top: 20px;
+}
+.heart{
+    width: 24px;
+    height: 22px;
+    position: absolute;
+    top: 40px;
+    left: 390px;
+    color:white;
+    
+        
+}
+.fourth{
+    margin-top: 40px;
+}
+.icons{
+    width: 20px;
+    height: 18px;
+    margin-left: 30px;
+}
+.likes{
+    width: 33px;
+    height: 24px;
+    text-align: left;
+    font: normal normal 600 20px/24px Gilroy;
+    letter-spacing: 0px;
+    color: #101010;
+    opacity:  1;
+}
+.last{
+    height: 250px;
+    border-radius: 10px;
+    margin-top: 13px;
+    overflow: hidden
+    
+}
+.rating{
+    width: 190px;
+    height: 150px;
+    margin-left: 10px;
+    border-radius: 10px;
+    opacity: 1;
+
+}
+.rating2{
+    width: 190px;
+    height: 150px;
+    padding-left: 0;
+    border-radius: 10px;
+   opacity: 1;
+   margin-left: 10px;
+}
+.edge{
+    width: 28px;
+    height: inherit;
+    border-radius: 10px;
+    opacity: 1;
+    margin-left: 5px;
+}
+
+
+.edge2{
+    width: 28px; 
+    height: inherit;
+    border-radius: 10px;
+    padding-left: 0;
+    opacity: 1;
+    margin-left: 10px;
+    text-align: right;
+
+}
+.p1{
+    width:180px;
+height: 15px;
+/* UI Properties */
+text-align: left;
+font: normal normal 600 10px/26px Gilroy;
+letter-spacing: 0px;
+color: #101010;
+opacity: 1;
+padding-left: 44px;
+}
+.p2{
+    width:180px;
+height: 15px;
+/* UI Properties */
+text-align: left;
+font: normal normal 600 10px/26px Gilroy;
+letter-spacing: 0px;
+color: #101010;
+opacity: 1;
+padding-left: 68px;
+}
